@@ -1,0 +1,23 @@
+body{
+	background-color: #59B1FF;
+	font-family: Times new Roman;
+
+}
+.navbar{
+	background: rgb(250,199,42);
+	background: linear-gradient(180deg, rgba(250,199,42,1) 0%, rgba(238,165,63,1) 65%);
+}
+.card{
+	padding: 20px;
+	margin: 70px;
+}
+.card-body{
+	background-image: url(https://img.freepik.com/free-vector/watercolor-summer-background_52683-84831.jpg);
+  	background-size: cover;
+  	text-shadow: 3px -2px 5px rgba(255,255,255,1);
+}
+.col-md-8{
+	background: rgb(255,218,105);
+	background: linear-gradient(180deg, rgba(255,218,105,1) 0%, rgba(255,182,70,1) 100%);
+
+}
